@@ -1,5 +1,4 @@
 
-import { CalendarDaysIcon, HandRaisedIcon } from '@heroicons/react/24/outline'
 
 const Workwithme = () => {
 return(
