@@ -7,9 +7,9 @@ return (
 
     <div class=" p-4 py-6 lg:py-8">
 
-             <div class="flex items-center justify-between">
-          <span class="text-xl text-gray-500 sm:text-center dark:text-gray-400"> MirandaBetweenLines
-          </span>
+             <div class="flex items-center justify-center">
+          {/* <span class=" hidden text-xl text-gray-500 sm:text-center dark:text-gray-400"> MirandaBetweenLines */}
+          {/* </span> */}
           <div class="flex mt-4 sm:justify-center sm:mt-0">
               <a href="https://twitter.com/tayamirandaa" class="text-gray-950 hover:text-gray-900 dark:hover:text-white ms-5">
                   <svg class="w-8 h-8" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 17">
